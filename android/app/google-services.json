@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917889683278",
+    "firebase_url": "https://housecontrol-395df.firebaseio.com",
+    "project_id": "housecontrol-395df",
+    "storage_bucket": "housecontrol-395df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917889683278:android:559e844c12fd51fed7d81f",
+        "android_client_info": {
+          "package_name": "com.housecontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917889683278-0810q027del8ub0r0d40dmijqbtagepn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-bNSVbZSgjWKqx4r1jlX7-_AU6Icy9jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917889683278-0810q027del8ub0r0d40dmijqbtagepn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

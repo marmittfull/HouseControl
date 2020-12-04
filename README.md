@@ -1,11 +1,3 @@
-<div align="center">
-  <img alt="Cimol"
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjSUd_ORLa9I5LDFdVP4LCD7jzv-e6qlNuQ&usqp=CAU"
-  />
-
-</div>
-
-
 # HouseControl
 
 > Project developed as final paper in the computer technician course at Monteiro Lobato school.

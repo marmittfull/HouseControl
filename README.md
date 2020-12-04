@@ -44,11 +44,11 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/marmittfull/gostack-challenge-reactnative.git
+   git clone https://github.com/marmittfull/HouseControl.git
    ```
 2. Install repository packages
    ```sh
-   yarn install
+   yarn
    ```
 3. Run the following code on the project root directory
    ```sh

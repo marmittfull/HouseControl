@@ -25,6 +25,7 @@ Through this application we can:
 
 - **React Native**
 - **Arduino**
+- Bluetooth Connection
 
 ## ⛏ Tools:
 
@@ -37,8 +38,8 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* yarn
-  https://yarnpkg.com/lang/en/docs/install/
+* npm
+ https://nodejs.org/en/download/
 
 ### Installation
 
@@ -48,11 +49,11 @@ This is an example of how to list things you need to use the software and how to
    ```
 2. Install repository packages
    ```sh
-   yarn
+   npm i
    ```
 3. Run the following code on the project root directory
    ```sh
-   yarn start
+   npm start
    ```
 
 ---
